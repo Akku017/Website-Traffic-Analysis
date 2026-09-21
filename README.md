@@ -69,8 +69,12 @@ The dashboard provides both a **high-level executive overview** and a **detailed
 9. **Dashboard Design** — Applied a professional dark navy theme with consistent colors, spacing and visual hierarchy.
 
 ## Dashboard
-
+**Page 1 - Website Traffic & Engagement Analytics**
 <img width="1287" height="745" alt="1page" src="https://github.com/user-attachments/assets/c0241d70-acca-4b5f-8b9f-961e1735c2c2" />
+
+**Page 2 - Channel & Time Performance Analysis**
+![Channel & Time Performance Analysis](2page.png)
+
 <img width="1288" height="742" alt="2page" src="https://github.com/user-attachments/assets/ec8a8d4c-d9da-439f-8434-0f0e222e114a" />
 
 
