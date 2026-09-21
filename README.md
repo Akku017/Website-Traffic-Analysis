@@ -69,13 +69,30 @@ The dashboard provides both a **high-level executive overview** and a **detailed
 9. **Dashboard Design** — Applied a professional dark navy theme with consistent colors, spacing and visual hierarchy.
 
 ## Dashboard
-**Page 1 - Website Traffic & Engagement Analytics**
+**Page 1 - Website Traffic & Engagement Analytics** <br/>
+
 <img width="1287" height="745" alt="1page" src="https://github.com/user-attachments/assets/c0241d70-acca-4b5f-8b9f-961e1735c2c2" />
 
-**Page 2 - Channel & Time Performance Analysis**
-![Channel & Time Performance Analysis](2page.png)
+**Page 2 - Channel & Time Performance Analysis** <br/>
+
 
 <img width="1288" height="742" alt="2page" src="https://github.com/user-attachments/assets/ec8a8d4c-d9da-439f-8434-0f0e222e114a" />
 
+##  Key Insights
 
+- The website recorded **133.44K users**, **162.90K sessions** and **90.13K engaged sessions** during the analyzed period.
+- The overall engagement rate was **55.33%**.
+- The dataset recorded **770,911 events**, displayed as approximately **771K** in the dashboard.
+- **Organic Social** generated the highest session volume with **60,627 sessions**.
+- **Direct** generated **37,203 sessions**, while **Organic Search** generated **33,372 sessions**.
+- **Referral** generated **30,990 sessions**.
+- Channel engagement rates were approximately **77.30% for Organic Video**, **66.64% for Referral**, **58.21% for Organic Search**, **53.93% for Organic Social**, **46.35% for Direct**, **33.33% for Email** and **0.72% for Unassigned**.
+- Hourly session volume was highest at **7 PM with 9,129 sessions** and lowest at **5 AM with 2,598 sessions**.
+- Hourly engagement rate was highest at approximately **11 AM (59.75%)** in the aggregated hourly view.
+
+## Final Conclusion
+
+The Website Traffic & Engagement Analytics Dashboard provides a consolidated view of website performance across **users, sessions, engaged sessions, engagement rate, events, acquisition channels, dates and hours**. The analysis shows clear differences in traffic contribution and engagement across channels, while the hourly analysis highlights substantial variation in website activity throughout the day.
+
+By combining **Python/Pandas data cleaning, structured data preparation, Power BI visualization and interactive filtering**, this project demonstrates an end-to-end data analytics workflow for converting raw website traffic data into an executive-friendly business intelligence dashboard.
 
