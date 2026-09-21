@@ -17,15 +17,17 @@ The dashboard provides both a **high-level executive overview** and a **detailed
 
 
 
-## Technologies Used
+##  Tools & Technologies
 
-- **Microsoft Power BI** : For dashboard development, data visualization and interactive analytics.
-- **DAX**                : For KPI calculations and analytical measures.
-- **Power Query**        : For data loading, transformation and preparation.
-- **Python**             : For data preparation, cleaning and validation.
-- **Pandas**             : For data cleaning, transformation and analysis.
-- **Jupyter Notebook**   : For developing and documenting the data-cleaning workflow.
-- **CSV**                : Used as the source and cleaned dataset format.
+| Tool | Purpose |
+|---|---|
+| **Microsoft Power BI** | Dashboard development and visualization |
+| **DAX** | KPI and analytical measure calculations |
+| **Power Query** | Data loading and transformation |
+| **Python** | Data preparation and validation |
+| **Pandas** | Data cleaning and transformation |
+| **Jupyter Notebook** | Data-cleaning workflow |
+| **CSV** | Source and cleaned datasets |
 
 
 ## Key KPIs
@@ -52,6 +54,8 @@ The dashboard provides both a **high-level executive overview** and a **detailed
 - How does website activity change between different dates and hours?
 
 
+
+
 ## Project Process
 
 1. **Data Loading** — Loaded the raw website traffic CSV using Pandas.
@@ -63,3 +67,11 @@ The dashboard provides both a **high-level executive overview** and a **detailed
 7. **Data Validation** — Reviewed dataset structure and descriptive statistics using Pandas.
 8. **Power BI Development** — Built KPI cards, trend charts, channel comparisons, hourly analysis and interactive filters.
 9. **Dashboard Design** — Applied a professional dark navy theme with consistent colors, spacing and visual hierarchy.
+
+## Dashboard
+
+<img width="1287" height="745" alt="1page" src="https://github.com/user-attachments/assets/c0241d70-acca-4b5f-8b9f-961e1735c2c2" />
+<img width="1288" height="742" alt="2page" src="https://github.com/user-attachments/assets/ec8a8d4c-d9da-439f-8434-0f0e222e114a" />
+
+
+
